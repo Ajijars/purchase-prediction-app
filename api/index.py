@@ -211,8 +211,8 @@ FORM_HTML = """
                 <input type="number" id="age" name="age" placeholder="e.g. 35" min="1" max="100" required>
             </div>
             <div class="form-group">
-                <label for="estimated_salary">Estimated Salary (USD)</label>
-                <input type="number" id="estimated_salary" name="estimated_salary" placeholder="e.g. 75000" min="0" required>
+                <label for="estimated_salary">Estimated Salary (₹)</label>
+                <input type="number" id="estimated_salary" name="estimated_salary" placeholder="e.g. 600000" min="0" required>
             </div>
             <button type="submit" id="predict-btn">🔮 Predict Now</button>
         </form>
