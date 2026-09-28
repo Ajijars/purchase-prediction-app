@@ -32,3 +32,5 @@ Thumbs.db
 # Old duplicates
 model .pkl
 purchase-prediction-app/
+
+.vercel
